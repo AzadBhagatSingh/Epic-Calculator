@@ -1,0 +1,96 @@
+.error{
+	color: red;
+}
+
+.clear{
+    clear: both;
+}
+    .calculate_text_heading {
+        color: #000000;
+    font-family: Roboto;
+    font-size: 16px;
+    line-height: 25px;
+    font-style: normal;
+    margin: 5px 0;
+    font-weight: 400;
+}
+.calculate_input_box {
+    height: 36px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 3px;
+    padding-left: 20px;
+    font-size: 16px;
+    width: 97%;
+    line-height: 20px;
+}
+.doller_img {
+    background-image: url(/wp-content/uploads/2018/12/doller.png);
+    background-repeat: no-repeat;
+    background-position: 6px;
+}
+.calculate_inner_left {
+    width: 50%;
+    float: left;
+}
+.calculate_inner_right {
+    width: 50%;
+    float: left;
+    text-align: right;
+}
+.calculate_button {
+    background: #b6995b;
+    border: none;
+    color: #fff;
+    padding: 12px 30px;
+    border-radius: 50px;
+    font-weight: 500;
+    font-size: 15px;
+    letter-spacing: 1px;
+    display: inline-block;
+    font-family: 'Roboto';
+    text-shadow: 2px 1px rgba(0, 0, 0, 0.35);
+    text-transform: uppercase;
+    line-height: 20px !important;
+	cursor:pointer;
+}
+.calculate_inner {
+    margin-top: 20px;
+}
+.caculate_result_digit {
+    font-size: 22px;
+    line-height: 32px;
+    font-weight: bold;
+    color: #00573d;
+}
+.cal_page_right_section_diff_part_left {
+    float: left;
+    width: 52%;
+}
+.cal_page_right_section_diff_part_right {
+
+    float: left;
+    width: 48%;
+    text-align: right;
+
+}
+.cal_page_right_section_diff_part_right .caculate_result_digit {
+
+    font-size: 22px;
+    line-height: 32px;
+    font-weight: bold;
+    color: #ff1919;
+
+}
+.cal_page_enroll_button {
+    background: #01573e;
+    color: #fff;
+    padding: 25px 30px;
+    border-radius: 50px;
+    font-weight: 500;
+    font-size: 19px;
+    letter-spacing: 1px;
+    display: inline-block;
+    font-family: 'Roboto';
+    text-shadow: 2px 1px rgba(0, 0, 0, 0.35);
+    line-height: 20px !important;
+}
